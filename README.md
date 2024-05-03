@@ -20,8 +20,6 @@ Ensure you have the following libraries installed:
 
 You can install these dependencies using pip:
 
-```bash
-pip install numpy pandas tensorflow opencv-python keras
 # Usage
 
 1. Clone the repository or download the Python notebook (`invasive_species_classification.ipynb`).
@@ -32,4 +30,6 @@ pip install numpy pandas tensorflow opencv-python keras
 
 ## Contact
 
-For questions or suggestions regarding the model or the provided notebook, please contact the project maintainer at [email@example.com](mailto:email@example.com).
+For questions or suggestions regarding the model or the provided notebook, please contact the project maintainer at [email@example.com](mailto:mnelmaghraby145@gmail.com).
+```bash
+pip install numpy pandas tensorflow opencv-python keras
