@@ -28,8 +28,7 @@ You can install these dependencies using pip:
 4. Adjust hyperparameters such as learning rate, batch size, and number of epochs for optimal performance.
 5. Utilize the trained model for classifying new images of invasive species by providing the file paths to the images.
 
-## Contact
-
-For questions or suggestions regarding the model or the provided notebook, please contact the project maintainer at [email@example.com](mailto:mnelmaghraby145@gmail.com).
+## Contributors
+Mohamed El-Maghraby.
 ```bash
 pip install numpy pandas tensorflow opencv-python keras
