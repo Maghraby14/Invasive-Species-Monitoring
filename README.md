@@ -3,6 +3,9 @@
 ## Overview
 This Python notebook contains code to train a machine learning model for classifying images as either invasive species or non-invasive species. The model utilizes convolutional neural networks (CNNs) and is trained on a dataset of images labeled with the presence or absence of invasive species.
 
+Kaggle Accuracy:-  90%
+
+
 ## Dataset
 The dataset consists of two classes: invasive species and non-invasive species. It contains images collected from various ecosystems, each labeled accordingly. The dataset is provided in a compressed format and is extracted within the notebook for preprocessing.
 
